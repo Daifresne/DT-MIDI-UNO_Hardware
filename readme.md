@@ -1,7 +1,7 @@
-#極仿·MIDI Fighter 64 Hardware File
+# 極仿·MIDI Fighter 64 Hardware File
 [中文版本](readme_cn.md)
 
-## Hardware design files for TSGP Studio's Project DT MIDI UNO
+## Hardware design files for TSGP Studio's Project 極仿·MIDI Fighter 64
 
 ## Contents:
 * /PCB - PCB design files anc schematic
