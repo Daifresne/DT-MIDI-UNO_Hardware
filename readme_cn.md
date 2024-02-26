@@ -1,7 +1,7 @@
-# DT MIDI UNO Hardware File
+# 極仿·MIDI Fighter 64 Hardware File
 [English Version](readme.md)
 
-##  DT MIDI UNO  硬件设计文件
+##  極仿·MIDI Fighter 64  硬件设计文件
 
 ## 内容:
 * /PCB - PCB设计文件以及原理图
